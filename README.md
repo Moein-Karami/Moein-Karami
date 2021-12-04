@@ -6,8 +6,5 @@
 <h3 font-size="20" align="center">A computer engineering student at University of Tehran. .</h3>
 
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
----
 
-
-------
-Credit: [Elanza-48](https://github.com/Elanza-48)
+Contact: [Moein Karami](https://www.linkedin.com/in/moein-karami-2000/)
