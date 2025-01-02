@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moein Karami<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A computer engineering student at University of Tehran.</h3>
+<h3 font-size="20" align="center">A computer science student at University of Saarland</h3>
 
 You can see my projects [here](https://github.com/Moein-Karami/Moein-Karami)
 
